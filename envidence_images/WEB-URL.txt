@@ -1,2 +1,2 @@
 Web URL URL
-https://tannv-article-cms-project.azurewebsites.net
+https://tamltm-aticle-udacity.azurewebsites.net
